@@ -1,0 +1,15 @@
+{
+  "name": "glamournenko-test-page",
+  "version": "1.0.0",
+  "description": "glamournenko test page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "glamournenko",
+    "test"
+  ],
+  "author": "Igor Belozub belozubi@yandex.ru",
+  "license": "ISC"
+}
